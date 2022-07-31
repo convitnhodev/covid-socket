@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "username": "kkk",
+            "password": "827ccb0eea8a706c4c34a16891f84e7b"
+        },
+        {
+            "username": "abc",
+            "password": "202cb962ac59075b964b07152d234b70"
+        },
+        {
+            "username": "huy",
+            "password": "202cb962ac59075b964b07152d234b70"
+        },
+        {
+            "username": "test",
+            "password": "c4ca4238a0b923820dcc509a6f75849b"
+        }
+    ]
+}
